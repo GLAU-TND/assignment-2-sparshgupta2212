@@ -7,9 +7,6 @@ import problem5.circularqueue.MyCircularQueue;
 import problem5.student.Student;
 
 
-
-//executable class
-
 public class MyMain {
 
     public static void main(String[] args) {
@@ -36,25 +33,25 @@ public class MyMain {
 
         if (remove != null)
 
-            System.out.println("Student remove \nName --> " + remove.getName());
+            System.out.println("Student remove \nName ---> " + remove.getName());
 
         remove = q.remove();
 
         if (remove != null)
 
-            System.out.println("Student remove \nName --> " + remove.getName());
+            System.out.println("Student remove \nName ---> " + remove.getName());
 
         remove = q.remove();
 
         if (remove != null)
 
-            System.out.println("Student remove \nName --> " + remove.getName());
+            System.out.println("Student remove \nName ---> " + remove.getName());
 
         remove = q.remove();
 
         if (remove != null)
 
-            System.out.println("Student remove \nName --> " + remove.getName());
+            System.out.println("Student remove \nName ---> " + remove.getName());
 
         q.display();
 
