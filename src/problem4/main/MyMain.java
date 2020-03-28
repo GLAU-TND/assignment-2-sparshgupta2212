@@ -2,7 +2,7 @@ package problem4.main;
 
 
 
-import problem4.binaryST.MyBinarySearchTree;
+import problem4.binarySt.MyBinarySearchTree;
 
 import problem4.myqueue.MyQueue;
 

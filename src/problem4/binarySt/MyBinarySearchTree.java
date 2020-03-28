@@ -1,4 +1,4 @@
-package problem4.binaryST;
+package problem4.binarySt;
 
 
 
@@ -95,7 +95,6 @@ public class MyBinarySearchTree {
 
         } else {
 
-//            System.out.println(temp.getData());
 
             myQueue.enqueue(temp.getData());
 
