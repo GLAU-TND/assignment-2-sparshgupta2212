@@ -17,15 +17,15 @@ public class MyMain {
 
         MyBinarySearchTree myBinarySearchTree = new MyBinarySearchTree(myQueue);
 
-        myBinarySearchTree.insert(1011);
+        myBinarySearchTree.insert(2020);
 
-        myBinarySearchTree.insert(200);
+        myBinarySearchTree.insert(511);
 
-        myBinarySearchTree.insert(31);
+        myBinarySearchTree.insert(41);
 
-        myBinarySearchTree.insert(3);
+        myBinarySearchTree.insert(6);
 
-        myBinarySearchTree.insert(15);
+        myBinarySearchTree.insert(21);
 
         myBinarySearchTree.preOrder(myBinarySearchTree.getRoot());
 
