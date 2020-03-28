@@ -8,8 +8,6 @@ import problem5.student.Student;
 
 
 
-//to implement circular queue
-
 public class MyCircularQueue {
 
     Node front, rear;
@@ -58,7 +56,7 @@ public class MyCircularQueue {
 
         if (front == null)
 
-            System.out.println("EMPTY QUEUE");
+            System.out.println("QUEUE IS EMPTY");
 
         Student s = null;
 

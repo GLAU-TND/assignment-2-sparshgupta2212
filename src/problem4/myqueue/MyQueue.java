@@ -10,7 +10,6 @@ import problem4.linkedList.MyLinkedList;
 public class MyQueue {
 
 
-
     MyLinkedList linkedList = new MyLinkedList();
 
 
