@@ -14,19 +14,21 @@ public class MyMain {
 
         MyBinarySearchTree bst = new MyBinarySearchTree();
 
-        bst.insert(85);
+        bst.insert(87);
 
-        bst.insert(25);
+        bst.insert(26);
 
-        bst.insert(45);
+        bst.insert(49);
 
-        bst.insert(15);
+        bst.insert(16);
 
-        bst.insert(17);
+        bst.insert(19);
 
-        bst.insert(15);
+        bst.insert(14);
 
         bst.insert(10);
+
+        bst.insert(8);
 
         System.out.println("Root of the tree --> " + bst.getRoot().getData());
 
