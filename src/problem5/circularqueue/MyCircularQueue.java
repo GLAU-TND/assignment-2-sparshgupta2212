@@ -111,7 +111,6 @@ public class MyCircularQueue {
         System.out.print(temp.getStudent().getName() + "  ");
 
         System.out.println();
-
     }
 
 }
