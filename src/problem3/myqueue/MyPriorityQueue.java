@@ -11,7 +11,6 @@ public class MyPriorityQueue {
     Node front;
 
 
-
     public MyPriorityQueue() {
 
         this.front = null;
